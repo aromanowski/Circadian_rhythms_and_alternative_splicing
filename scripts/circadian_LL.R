@@ -70,16 +70,16 @@ source("../scripts/functions.R")
 # * Number of AS bins (not include external) = 41863      #
 # * Number of AS bins (include external) = 41941          #
 # * Classified as:                                        #
-#   ES bins = 1686	(4%)                                  #
-#   IR bins = 13033	(31%)                                 #
+#   ES bins = 1686      (4%)                              #
+#   IR bins = 13033     (31%)                             #
 #   Alt5'ss bins = 4244	(10%)                             #
 #   Alt3'ss bins = 7683	(18%)                             #
-#   Multiple AS bins = 15217	(36%)                       #
+#   Multiple AS bins = 15217    (36%)                     #
 #   classified as:                                        #
-#                 ES bins = 1627	(11%)                   #
-#                 IR bins = 5060	(33%)                   #
-#                 Alt5'ss bins = 2941	(19%)               #
-#           			Alt3'ss bins = 5001	(33%)               #
+#               ES bins = 1627	(11%)                     #
+#               IR bins = 5060	(33%)                     #
+#               Alt5'ss bins = 2941 (19%)                 #
+#               Alt3'ss bins = 5001 (33%)                 #
 ###########################################################
 
 ############################################################
@@ -87,12 +87,12 @@ source("../scripts/functions.R")
 #                                                          #
 # Example                                                  #
 # sample	bam	condition                                    #
-# Col_LL_A	Col_LL_A.bam	ctrl	                           #
-# Col_LL_B	Col_LL_B.bam	ctrl	                           #
-# Col_LL_C	Col_LL_C.bam	ctrl	                           #
-# SMN_LL_A	SMN_LL_A.bam	spf30-1	                         #
-# SMN_LL_B	SMN_LL_B.bam	spf30-1	                         #
-# SMN_LL_C	SMN_LL_C.bam	spf30-1	                         #
+# Col_LL_A	Col_LL_A.bam	ctrl                             #
+# Col_LL_B	Col_LL_B.bam	ctrl                             #
+# Col_LL_C	Col_LL_C.bam	ctrl                             #
+# SMN_LL_A	SMN_LL_A.bam	spf30-1                          #
+# SMN_LL_B	SMN_LL_B.bam	spf30-1                          #
+# SMN_LL_C	SMN_LL_C.bam	spf30-1                          #
 ############################################################
 
 # Load the circadian targets and bam files
