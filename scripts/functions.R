@@ -17,7 +17,8 @@ getAnnnot <- function(df, md){
   return(res)
 }
 
-# Function to plot a blue-yellow heatmap (modified from the tigh.clust package)
+# Function to plot a blue-yellow heatmap 
+# (modified from the tightClust package by George C. Tseng and Wing H. Wong)
 plot.clust <- function (x, standardize.gene = TRUE, gene_labels = TRUE, order.sample = FALSE, 
                         plot.noise = TRUE, ...) 
 {
