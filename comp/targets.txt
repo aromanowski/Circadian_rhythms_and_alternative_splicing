@@ -1,0 +1,26 @@
+sample	bam	condition
+Col_LL_24_A	Col_LL_24_A.bam	24
+Col_LL_24_B	Col_LL_24_B.bam	24
+Col_LL_28_A	Col_LL_28_A.bam	28
+Col_LL_28_B	Col_LL_28_B.bam	28
+Col_LL_32_A	Col_LL_32_A.bam	32
+Col_LL_32_B	Col_LL_32_B.bam	32
+Col_LL_36_A	Col_LL_36_A.bam	36
+Col_LL_36_B	Col_LL_36_B.bam	36
+Col_LL_40_A	Col_LL_40_A.bam	40
+Col_LL_40_B	Col_LL_40_B.bam	40
+Col_LL_44_A	Col_LL_44_A.bam	44
+Col_LL_44_B	Col_LL_44_B.bam	44
+Col_LL_48_A	Col_LL_48_A.bam	48
+Col_LL_48_B	Col_LL_48_B.bam	48
+Col_LL_52_A	Col_LL_52_A.bam	52
+Col_LL_52_B	Col_LL_52_B.bam	52
+Col_LL_56_A	Col_LL_56_A.bam	56
+Col_LL_56_B	Col_LL_56_B.bam	56
+Col_LL_60_A	Col_LL_60_A.bam	60
+Col_LL_60_B	Col_LL_60_B.bam	60
+Col_LL_64_A	Col_LL_64_A.bam	64	
+Col_LL_64_B	Col_LL_64_B.bam	64
+Col_LL_68_A	Col_LL_68_A.bam	68
+Col_LL_68_B	Col_LL_68_B.bam	68
+
