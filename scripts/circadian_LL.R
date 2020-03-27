@@ -90,13 +90,13 @@ source("../scripts/functions.R")
 # Create a target file with description of the experiment  #
 #                                                          #
 # Example                                                  #
-# sample	bam	condition                                    #
-# Col_LL_A	Col_LL_A.bam	ctrl                             #
-# Col_LL_B	Col_LL_B.bam	ctrl                             #
-# Col_LL_C	Col_LL_C.bam	ctrl                             #
-# SMN_LL_A	SMN_LL_A.bam	spf30-1                          #
-# SMN_LL_B	SMN_LL_B.bam	spf30-1                          #
-# SMN_LL_C	SMN_LL_C.bam	spf30-1                          #
+# sample  bam condition                                    #
+# Col_LL_A  Col_LL_A.bam  ctrl                             #
+# Col_LL_B  Col_LL_B.bam  ctrl                             #
+# Col_LL_C  Col_LL_C.bam  ctrl                             #
+# SMN_LL_A  SMN_LL_A.bam  spf30-1                          #
+# SMN_LL_B  SMN_LL_B.bam  spf30-1                          #
+# SMN_LL_C  SMN_LL_C.bam  spf30-1                          #
 ############################################################
 
 # Load the circadian targets and bam files
