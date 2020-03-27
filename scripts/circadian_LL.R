@@ -19,6 +19,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) {
   BiocManager::install()}
 if(!require(ASpli)) BiocManager::install("ASpli")
 if(!require(GenomicFeatures)) BiocManager::install("GenomicFeatures")
+if(!require(AnnotationDbi)) BiocManager::install("AnnotationDbi")
 if(!require(BiocParallel)) BiocManager::install("BiocParallel")
 if(!require(devtools)) {
    install.packages("devtools")
@@ -33,6 +34,7 @@ if(!require(gplots)) install.packages("gplots")
 library(ASpli)
 library(BiocParallel)
 library(GenomicFeatures)
+library(AnnotationDbi)
 library(gplots)
 library(ggpubr)
 library(RColorBrewer)
